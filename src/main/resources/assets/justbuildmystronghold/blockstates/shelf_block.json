@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "shelf_top=true": { "model": "justbuildmystronghold:block/shelf/shelf_top","y": 0 },
+    "shelf_top=false": { "model": "justbuildmystronghold:block/shelf/shelf_down","y": 0 }
+  }
+}

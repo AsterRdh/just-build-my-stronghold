@@ -1,0 +1,11 @@
+{
+  "multipart": [
+    {"apply": { "model": "justbuildmystronghold:block/chimney/stone_bricks/chimney_stone_bricks" }},
+    {
+      "when": {"half": "top"},
+      "apply": [
+        { "model": "justbuildmystronghold:block/chimney/stone_bricks/chimney_stone_bricks_top","y": 0 }
+      ]
+    }
+  ]
+}

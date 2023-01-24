@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "justbuildmystronghold:block/vertical_slab/cobblestone/stone_brick_vertical_slab1" },
+    "facing=west": { "model": "justbuildmystronghold:block/vertical_slab/cobblestone/stone_brick_vertical_slab2" },
+    "facing=south": { "model": "justbuildmystronghold:block/vertical_slab/cobblestone/stone_brick_vertical_slab3" },
+    "facing=east": { "model": "justbuildmystronghold:block/vertical_slab/cobblestone/stone_brick_vertical_slab4" }
+  }
+}

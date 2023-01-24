@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,part=head": { "model": "justbuildmystronghold:block/big_bed/cyan/big_bed_upper", "y": 0 },
+    "facing=south,part=head": { "model": "justbuildmystronghold:block/big_bed/cyan/big_bed_upper", "y": 180 },
+    "facing=west,part=head": { "model": "justbuildmystronghold:block/big_bed/cyan/big_bed_upper" , "y": -90 },
+    "facing=east,part=head": { "model": "justbuildmystronghold:block/big_bed/cyan/big_bed_upper" , "y": 90 },
+    "facing=north,part=foot": { "model": "justbuildmystronghold:block/big_bed/cyan/big_bed_lower", "y": 0 },
+    "facing=south,part=foot": { "model": "justbuildmystronghold:block/big_bed/cyan/big_bed_lower", "y": 180 },
+    "facing=west,part=foot": { "model": "justbuildmystronghold:block/big_bed/cyan/big_bed_lower" , "y": -90 },
+    "facing=east,part=foot": { "model": "justbuildmystronghold:block/big_bed/cyan/big_bed_lower" , "y": 90 }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "loader": "forge:obj",
+  "model": "justbuildmystronghold:models/block/ceiling/obj/ceiling1.obj",
+  "flip-v": true
+}

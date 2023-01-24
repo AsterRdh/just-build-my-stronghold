@@ -1,0 +1,8 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "justbuildmystronghold:block/vertical_slab/vertical_slab_base2",
+  "textures": {
+    "0": "block/cobblestone",
+    "particle": "block/cobblestone"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "justbuildmystronghold:block/toilet/toilet_base","y":0 },
+    "facing=south": { "model": "justbuildmystronghold:block/toilet/toilet_base","y":180 },
+    "facing=west": { "model": "justbuildmystronghold:block/toilet/toilet_base","y":-90 },
+    "facing=east": { "model": "justbuildmystronghold:block/toilet/toilet_base","y":90 }
+  }
+}

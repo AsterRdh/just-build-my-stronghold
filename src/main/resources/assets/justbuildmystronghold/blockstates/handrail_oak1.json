@@ -1,0 +1,35 @@
+{
+  "variants": {
+    "facing=north,handrail_shape=straight": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_straight" },
+    "facing=north,handrail_shape=inner_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_left" },
+    "facing=north,handrail_shape=inner_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_right" },
+    "facing=north,handrail_shape=inner_outer_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_outer_left" },
+    "facing=north,handrail_shape=inner_outer_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_outer_right" },
+    "facing=north,handrail_shape=outer_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_outer_left" },
+    "facing=north,handrail_shape=outer_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_outer_right" },
+
+    "facing=west,handrail_shape=straight": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_straight"  ,"y": -90},
+    "facing=west,handrail_shape=inner_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_left" ,"y": -90},
+    "facing=west,handrail_shape=inner_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_right" ,"y": -90},
+    "facing=west,handrail_shape=inner_outer_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_outer_left" ,"y": -90},
+    "facing=west,handrail_shape=inner_outer_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_outer_right" ,"y": -90},
+    "facing=west,handrail_shape=outer_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_outer_left","y": -90 },
+    "facing=west,handrail_shape=outer_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_outer_right","y": -90 },
+
+    "facing=south,handrail_shape=straight": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_straight" ,"y": 180 },
+    "facing=south,handrail_shape=inner_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_left"  ,"y": 180},
+    "facing=south,handrail_shape=inner_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_right"  ,"y": 180},
+    "facing=south,handrail_shape=inner_outer_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_outer_left" ,"y": 180 },
+    "facing=south,handrail_shape=inner_outer_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_outer_right"  ,"y": 180},
+    "facing=south,handrail_shape=outer_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_outer_left" ,"y": 180 },
+    "facing=south,handrail_shape=outer_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_outer_right" ,"y": 180 },
+
+    "facing=east,handrail_shape=straight": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_straight" ,"y": 90},
+    "facing=east,handrail_shape=inner_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_left","y": 90 },
+    "facing=east,handrail_shape=inner_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_right","y": 90 },
+    "facing=east,handrail_shape=inner_outer_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_outer_left" ,"y": 90},
+    "facing=east,handrail_shape=inner_outer_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_inner_outer_right","y": 90 },
+    "facing=east,handrail_shape=outer_left": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_outer_left","y": 90 },
+    "facing=east,handrail_shape=outer_right": { "model": "justbuildmystronghold:block/handrail/oak/oak_handrail_outer_right","y": 90}
+  }
+}

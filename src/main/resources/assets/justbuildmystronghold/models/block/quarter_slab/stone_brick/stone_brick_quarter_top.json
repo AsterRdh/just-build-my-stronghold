@@ -1,0 +1,8 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "justbuildmystronghold:block/quarter_slab/base/quarter_base_top",
+  "textures": {
+    "0": "block/stone_bricks",
+    "particle": "block/stone_bricks"
+  }
+}

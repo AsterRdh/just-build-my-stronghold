@@ -1,0 +1,8 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "justbuildmystronghold:block/handrail/base/base_handrail_outer_left",
+  "textures": {
+    "0": "block/oak_planks",
+    "particle": "block/oak_planks"
+  }
+}

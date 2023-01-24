@@ -1,0 +1,8 @@
+{
+  "credit": "Made with AsterTools",
+  "parent": "justbuildmystronghold:/block/handrail/base/handrail_base_4_3",
+  "textures": {
+    "0": "block/oak_planks",
+    "particle": "block/oak_planks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "credit": "Made with AsterTools",
+  "parent": "justbuildmystronghold:/block/battlements_wood/base/battlements_wood_base_top_straight",
+  "textures": {
+    "0": "block/spruce_log",
+    "1": "block/spruce_log_top",
+    "2": "block/stripped_spruce_log",
+    "particle": "block/spruce_log"
+  }
+}

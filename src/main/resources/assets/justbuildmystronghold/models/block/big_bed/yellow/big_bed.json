@@ -1,0 +1,9 @@
+{
+  "credit": "Made with AsterTools",
+  "parent": "justbuildmystronghold:/block/big_bed/base/big_bed",
+  "textures": {
+    "0": "entity/bed/yellow",
+    "1": "block/stripped_spruce_log",
+    "particle": "entity/bed/yellow"
+  }
+}

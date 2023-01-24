@@ -1,0 +1,45 @@
+{
+  "variants": {
+    "facing=north,half=bottom,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block2","y": 0   },
+    "facing=south,half=bottom,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block2","y": 180 },
+    "facing=west,half=bottom,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block2" ,"y": -90  },
+    "facing=east,half=bottom,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block2" ,"y": 90 },
+
+    "facing=north,half=bottom,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block4","y": 0   },
+    "facing=south,half=bottom,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block4","y": 180 },
+    "facing=west,half=bottom,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block4" ,"y": -90  },
+    "facing=east,half=bottom,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block4" ,"y": 90 },
+
+    "facing=north,half=top,shape=0,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_0" ,"y": 0   },
+    "facing=north,half=top,shape=1,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_1" ,"y": 0   },
+    "facing=north,half=top,shape=2,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_2" ,"y": 0   },
+
+    "facing=south,half=top,shape=0,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_0" ,"y": 180 },
+    "facing=south,half=top,shape=1,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_1" ,"y": 180 },
+    "facing=south,half=top,shape=2,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_2" ,"y": 180 },
+
+    "facing=west,half=top,shape=0,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_0" ,"y": -90  },
+    "facing=west,half=top,shape=1,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_1" ,"y": -90  },
+    "facing=west,half=top,shape=2,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_2" ,"y": -90  },
+
+    "facing=east,half=top,shape=0,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_0" ,"y": 90 },
+    "facing=east,half=top,shape=1,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_1" ,"y": 90 },
+    "facing=east,half=top,shape=2,hinge=left": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block1_2" ,"y": 90 },
+
+    "facing=north,half=top,shape=0,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_0" ,"y": 0   },
+    "facing=north,half=top,shape=1,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_1" ,"y": 0   },
+    "facing=north,half=top,shape=2,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_2" ,"y": 0   },
+
+    "facing=south,half=top,shape=0,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_0" ,"y": 180 },
+    "facing=south,half=top,shape=1,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_1" ,"y": 180 },
+    "facing=south,half=top,shape=2,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_2" ,"y": 180 },
+
+    "facing=west,half=top,shape=0,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_0" ,"y": -90  },
+    "facing=west,half=top,shape=1,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_1" ,"y": -90  },
+    "facing=west,half=top,shape=2,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_2" ,"y": -90  },
+
+    "facing=east,half=top,shape=0,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_0" ,"y": 90 },
+    "facing=east,half=top,shape=1,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_1" ,"y": 90 },
+    "facing=east,half=top,shape=2,hinge=right": { "model": "justbuildmystronghold:block/hafe_slab/hafe_slab_block3_2" ,"y": 90 }
+  }
+}

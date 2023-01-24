@@ -1,0 +1,57 @@
+{
+  "multipart": [
+    {"apply": { "model": "justbuildmystronghold:block/wainscot/spruce/wainscot_spruce" }},
+    {
+      "when": {"north": "none"},
+      "apply": [
+        { "model": "justbuildmystronghold:block/wainscot/spruce/wainscot_top_spruce","y": 0 }
+      ]
+    },
+    {
+      "when": {"east": "none"},
+      "apply": [
+        { "model": "justbuildmystronghold:block/wainscot/spruce/wainscot_top_spruce","y": 90 }
+      ]
+    },
+    {
+      "when": {"south": "none"},
+      "apply": [
+        { "model": "justbuildmystronghold:block/wainscot/spruce/wainscot_top_spruce","y": 180 }
+      ]
+    },
+    {
+      "when": {"west": "none"},
+      "apply": [
+        { "model": "justbuildmystronghold:block/wainscot/spruce/wainscot_top_spruce","y": 270 }
+      ]
+    },
+    {
+      "when": {"north": "none","west": "none"},
+      "apply": [
+        { "model": "justbuildmystronghold:block/wainscot/spruce/wainscot_top_corner","y": 0 }
+      ]
+    },
+    {
+      "when": {"north": "none","east": "none"},
+      "apply": [
+        { "model": "justbuildmystronghold:block/wainscot/spruce/wainscot_top_corner","y": 90 }
+      ]
+    },
+    {
+      "when": {"south": "none","west": "none"},
+      "apply": [
+        { "model": "justbuildmystronghold:block/wainscot/spruce/wainscot_top_corner","y": 270 }
+      ]
+    },
+    {
+      "when": {"south": "none","east": "none"},
+      "apply": [
+        { "model": "justbuildmystronghold:block/wainscot/spruce/wainscot_top_corner","y": 180 }
+      ]
+    }
+
+
+
+
+  ]
+}

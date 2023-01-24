@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "justbuildmystronghold:block/vertical_slab/book/vertical_slab_book1", "y": 180 },
+    "facing=south": { "model": "justbuildmystronghold:block/vertical_slab/book/vertical_slab_book1", "y": 0 },
+    "facing=west": { "model": "justbuildmystronghold:block/vertical_slab/book/vertical_slab_book1" , "y": 90 },
+    "facing=east": { "model": "justbuildmystronghold:block/vertical_slab/book/vertical_slab_book1" , "y": -90 }
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "multipart": [
+    {
+      "when": {"half": "bottom","shape": "straight","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_straight",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "inner_left","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_inner_left",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "inner_right","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_inner_right",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "outer_left","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_outer_left",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "outer_right","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_outer_right",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "straight","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_straight",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "inner_left","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_inner_left",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "inner_right","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_inner_right",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "outer_left","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_outer_left",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "outer_right","facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_outer_right",  "y": 0}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "straight","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_straight",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "inner_left","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_inner_left",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "inner_right","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_inner_right",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "outer_left","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_outer_left",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "outer_right","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_outer_right",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "straight","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_straight",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "inner_left","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_inner_left",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "inner_right","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_inner_right",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "outer_left","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_outer_left",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "outer_right","facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_outer_right",  "y": 270}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "straight","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_straight",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "inner_left","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_inner_left",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "inner_right","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_inner_right",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "outer_left","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_outer_left",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "outer_right","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_outer_right",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "straight","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_straight",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "inner_left","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_inner_left",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "inner_right","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_inner_right",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "outer_left","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_outer_left",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "outer_right","facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_outer_right",  "y": 180}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "straight","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_straight",  "y": 90}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "inner_left","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_inner_left",  "y": 90}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "inner_right","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_inner_right",  "y": 90}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "outer_left","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_outer_left",  "y": 90}
+      ]
+    },
+    {
+      "when": {"half": "bottom","shape": "outer_right","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_bottom_outer_right",  "y": 90}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "straight","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_straight",  "y": 90}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "inner_left","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_inner_left",  "y": 90}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "inner_right","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_inner_right",  "y": 90}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "outer_left","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_outer_left",  "y": 90}
+      ]
+    },
+    {
+      "when": {"half": "top","shape": "outer_right","facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/jungle/battlements_wood_jungle_top_outer_right",  "y": 90}
+      ]
+    },
+
+    {
+      "when": {"torch_enum": "inner","torch_facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/torch_inner",  "y": 0}
+      ]
+    },
+    {
+      "when": {"torch_enum": "inner","torch_facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/torch_inner",  "y": 90}
+      ]
+    },
+    {
+      "when": {"torch_enum": "inner","torch_facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/torch_inner",  "y": 180}
+      ]
+    },
+    {
+      "when": {"torch_enum": "inner","torch_facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/torch_inner",  "y": 270}
+      ]
+    },
+
+    {
+      "when": {"torch_enum": "outer","torch_facing": "north"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/torch_outer",  "y": 180}
+      ]
+    },
+    {
+      "when": {"torch_enum": "outer","torch_facing": "east"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/torch_outer",  "y": 270}
+      ]
+    },
+    {
+      "when": {"torch_enum": "outer","torch_facing": "south"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/torch_outer",  "y": 0}
+      ]
+    },
+    {
+      "when": {"torch_enum": "outer","torch_facing": "west"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/battlements_wood/torch_outer",  "y": 90}
+      ]
+    }
+  ]
+}

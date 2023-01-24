@@ -1,0 +1,9 @@
+{
+  "credit": "Made with AsterTools",
+  "parent": "justbuildmystronghold:/block/battlements_wood/base/battlements_wood_base_bottom_straight",
+  "textures": {
+    "0": "block/jungle_log",
+    "1": "block/jungle_log_top",
+    "particle": "block/jungle_log"
+  }
+}

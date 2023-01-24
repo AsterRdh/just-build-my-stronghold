@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "justbuildmystronghold:block/machicolation/machicolation_type1_1" },
+    "facing=west" : { "model": "justbuildmystronghold:block/machicolation/machicolation_type1_2" },
+    "facing=south": { "model": "justbuildmystronghold:block/machicolation/machicolation_type1_3" },
+    "facing=east" : { "model": "justbuildmystronghold:block/machicolation/machicolation_type1_4" }
+  }
+}

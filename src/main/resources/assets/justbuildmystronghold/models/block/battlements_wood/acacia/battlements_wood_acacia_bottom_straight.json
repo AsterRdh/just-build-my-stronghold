@@ -1,0 +1,9 @@
+{
+  "credit": "Made with AsterTools",
+  "parent": "justbuildmystronghold:/block/battlements_wood/base/battlements_wood_base_bottom_straight",
+  "textures": {
+    "0": "block/acacia_log",
+    "1": "block/acacia_log_top",
+    "particle": "block/acacia_log"
+  }
+}

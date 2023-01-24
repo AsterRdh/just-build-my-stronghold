@@ -1,0 +1,9 @@
+{
+  "credit": "Made with AsterTools",
+  "parent": "justbuildmystronghold:/block/machicolation/wood_base/machicolation_wood_base_outer_right",
+  "textures": {
+    "0": "block/jungle_log",
+    "1": "block/jungle_log_top",
+    "particle": "block/jungle_log"
+  }
+}

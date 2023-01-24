@@ -1,0 +1,897 @@
+{
+  "multipart": [
+    {
+      "when": {"facing": "south","wardrobe": "single","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_1", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "single","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_1", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "single","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_1", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "single","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_1", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "single","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_2", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "single","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_2", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "single","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_2", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "single","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_2", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "single","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_3", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "single","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_3", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "single","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_3", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "single","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_one_3", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "single","hinge":"left","open": "false"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_left_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "single","hinge":"left","open": "true"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_left_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "single","hinge":"right","open": "false"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_right_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "single","hinge":"right","open": "true"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_right_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "single","hinge":"left","open": "false"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_left_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "single","hinge":"left","open": "true"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_left_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "single","hinge":"right","open": "false"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_right_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "single","hinge":"right","open": "true"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_right_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "single","hinge":"left","open": "false"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_left_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "single","hinge":"left","open": "true"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_left_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "single","hinge":"right","open": "false"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_right_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "single","hinge":"right","open": "true"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_right_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "single","hinge":"left","open": "false"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_left_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "single","hinge":"left","open": "true"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_left_open", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "single","hinge":"right","open": "false"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_right_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "single","hinge":"right","open": "true"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_one_right_open", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_1", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_1", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_1", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_1", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"left","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_left_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"left","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_left_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"right","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_right_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"right","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_right_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"left","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_left_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"left","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_left_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"right","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_right_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"right","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_right_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"left","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_left_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"left","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_left_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"right","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_right_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"right","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_right_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"left","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_left_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"left","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_left_open", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"right","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_right_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"right","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_1_right_open", "y": 270}
+      ]
+    },
+
+    {
+      "when": {"facing": "south","wardrobe": "upper","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_2", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_2", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_2", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_2", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"left","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_left_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"left","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_left_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"right","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_right_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"right","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_right_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"left","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_left_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"left","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_left_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"right","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_right_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"right","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_right_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"left","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_left_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"left","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_left_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"right","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_right_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"right","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_right_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"left","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_left_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"left","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_left_open", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"right","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_right_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"right","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_2_right_open", "y": 270}
+      ]
+    },
+
+    {
+      "when": {"facing": "south","wardrobe": "upper","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_3", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_3", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_3", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_top_3", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"left","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_left_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"left","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_left_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"right","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_right_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "upper","hinge":"right","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_right_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"left","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_left_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"left","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_left_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"right","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_right_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "upper","hinge":"right","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_right_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"left","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_left_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"left","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_left_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"right","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_right_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "upper","hinge":"right","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_right_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"left","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_left_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"left","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_left_open", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"right","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_right_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "upper","hinge":"right","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_top_3_right_open", "y": 270}
+      ]
+    },
+
+    {
+      "when": {"facing": "south","wardrobe": "lower","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_1", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_1", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_1", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_1", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"left","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_left_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"left","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_left_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"right","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_right_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"right","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_right_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"left","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_left_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"left","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_left_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"right","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_right_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"right","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_right_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"left","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_left_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"left","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_left_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"right","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_right_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"right","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_right_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"left","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_left_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"left","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_left_open", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"right","open": "false","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_right_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"right","open": "true","style": "0"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_1_right_open", "y": 270}
+      ]
+    },
+
+    {
+      "when": {"facing": "south","wardrobe": "lower","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_2", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_2", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_2", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_2", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"left","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_left_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"left","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_left_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"right","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_right_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"right","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_right_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"left","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_left_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"left","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_left_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"right","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_right_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"right","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_right_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"left","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_left_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"left","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_left_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"right","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_right_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"right","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_right_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"left","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_left_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"left","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_left_open", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"right","open": "false","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_right_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"right","open": "true","style": "1"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_2_right_open", "y": 270}
+      ]
+    },
+
+    {
+      "when": {"facing": "south","wardrobe": "lower","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_3", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_3", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_3", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_box_bottom_3", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"left","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_left_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"left","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_left_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"right","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_right_close", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "south","wardrobe": "lower","hinge":"right","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_right_open", "y": 0}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"left","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_left_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"left","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_left_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"right","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_right_close", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "west","wardrobe": "lower","hinge":"right","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_right_open", "y": 90}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"left","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_left_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"left","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_left_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"right","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_right_close", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "north","wardrobe": "lower","hinge":"right","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_right_open", "y": 180}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"left","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_left_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"left","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_left_open", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"right","open": "false","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_right_close", "y": 270}
+      ]
+    },
+    {
+      "when": {"facing": "east","wardrobe": "lower","hinge":"right","open": "true","style": "2"},
+      "apply": [
+        {"model": "justbuildmystronghold:block/wardrobe/base/mu/wardrobe_door_bottom_3_right_open", "y": 270}
+      ]
+    }
+  ]
+}

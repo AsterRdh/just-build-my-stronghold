@@ -1,0 +1,388 @@
+{
+  "variants": {
+    "facing=east,group=1,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_1",
+      "y": 90
+    },
+    "facing=east,group=1,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_2",
+      "y": 90
+    },
+    "facing=east,group=1,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_3",
+      "y": 90
+    },
+    "facing=east,group=1,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_4",
+      "y": 90
+    },
+    "facing=east,group=1,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_5",
+      "y": 90
+    },
+    "facing=east,group=1,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_6",
+      "y": 90
+    },
+    "facing=east,group=2,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_1",
+      "y": 90
+    },
+    "facing=east,group=2,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_2",
+      "y": 90
+    },
+    "facing=east,group=2,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_3",
+      "y": 90
+    },
+    "facing=east,group=2,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_4",
+      "y": 90
+    },
+    "facing=east,group=2,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_5",
+      "y": 90
+    },
+    "facing=east,group=2,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_6",
+      "y": 90
+    },
+    "facing=east,group=3,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_1",
+      "y": 90
+    },
+    "facing=east,group=3,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_2",
+      "y": 90
+    },
+    "facing=east,group=3,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_3",
+      "y": 90
+    },
+    "facing=east,group=3,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_4",
+      "y": 90
+    },
+    "facing=east,group=3,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_5",
+      "y": 90
+    },
+    "facing=east,group=3,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_6",
+      "y": 90
+    },
+    "facing=east,group=4,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_1",
+      "y": 90
+    },
+    "facing=east,group=4,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_2",
+      "y": 90
+    },
+    "facing=east,group=4,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_3",
+      "y": 90
+    },
+    "facing=east,group=4,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_4",
+      "y": 90
+    },
+    "facing=east,group=4,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_5",
+      "y": 90
+    },
+    "facing=east,group=4,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_6",
+      "y": 90
+    },
+    "facing=north,group=1,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_1",
+      "y": 0
+    },
+    "facing=north,group=1,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_2",
+      "y": 0
+    },
+    "facing=north,group=1,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_3",
+      "y": 0
+    },
+    "facing=north,group=1,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_4",
+      "y": 0
+    },
+    "facing=north,group=1,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_5",
+      "y": 0
+    },
+    "facing=north,group=1,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_6",
+      "y": 0
+    },
+    "facing=north,group=2,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_1",
+      "y": 0
+    },
+    "facing=north,group=2,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_2",
+      "y": 0
+    },
+    "facing=north,group=2,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_3",
+      "y": 0
+    },
+    "facing=north,group=2,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_4",
+      "y": 0
+    },
+    "facing=north,group=2,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_5",
+      "y": 0
+    },
+    "facing=north,group=2,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_6",
+      "y": 0
+    },
+    "facing=north,group=3,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_1",
+      "y": 0
+    },
+    "facing=north,group=3,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_2",
+      "y": 0
+    },
+    "facing=north,group=3,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_3",
+      "y": 0
+    },
+    "facing=north,group=3,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_4",
+      "y": 0
+    },
+    "facing=north,group=3,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_5",
+      "y": 0
+    },
+    "facing=north,group=3,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_6",
+      "y": 0
+    },
+    "facing=north,group=4,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_1",
+      "y": 0
+    },
+    "facing=north,group=4,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_2",
+      "y": 0
+    },
+    "facing=north,group=4,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_3",
+      "y": 0
+    },
+    "facing=north,group=4,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_4",
+      "y": 0
+    },
+    "facing=north,group=4,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_5",
+      "y": 0
+    },
+    "facing=north,group=4,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_6",
+      "y": 0
+    },
+    "facing=south,group=1,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_1",
+      "y": 180
+    },
+    "facing=south,group=1,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_2",
+      "y": 180
+    },
+    "facing=south,group=1,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_3",
+      "y": 180
+    },
+    "facing=south,group=1,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_4",
+      "y": 180
+    },
+    "facing=south,group=1,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_5",
+      "y": 180
+    },
+    "facing=south,group=1,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_6",
+      "y": 180
+    },
+    "facing=south,group=2,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_1",
+      "y": 180
+    },
+    "facing=south,group=2,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_2",
+      "y": 180
+    },
+    "facing=south,group=2,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_3",
+      "y": 180
+    },
+    "facing=south,group=2,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_4",
+      "y": 180
+    },
+    "facing=south,group=2,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_5",
+      "y": 180
+    },
+    "facing=south,group=2,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_6",
+      "y": 180
+    },
+    "facing=south,group=3,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_1",
+      "y": 180
+    },
+    "facing=south,group=3,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_2",
+      "y": 180
+    },
+    "facing=south,group=3,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_3",
+      "y": 180
+    },
+    "facing=south,group=3,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_4",
+      "y": 180
+    },
+    "facing=south,group=3,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_5",
+      "y": 180
+    },
+    "facing=south,group=3,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_6",
+      "y": 180
+    },
+    "facing=south,group=4,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_1",
+      "y": 180
+    },
+    "facing=south,group=4,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_2",
+      "y": 180
+    },
+    "facing=south,group=4,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_3",
+      "y": 180
+    },
+    "facing=south,group=4,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_4",
+      "y": 180
+    },
+    "facing=south,group=4,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_5",
+      "y": 180
+    },
+    "facing=south,group=4,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_6",
+      "y": 180
+    },
+    "facing=west,group=1,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_1",
+      "y": 270
+    },
+    "facing=west,group=1,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_2",
+      "y": 270
+    },
+    "facing=west,group=1,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_3",
+      "y": 270
+    },
+    "facing=west,group=1,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_4",
+      "y": 270
+    },
+    "facing=west,group=1,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_5",
+      "y": 270
+    },
+    "facing=west,group=1,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_1_6",
+      "y": 270
+    },
+    "facing=west,group=2,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_1",
+      "y": 270
+    },
+    "facing=west,group=2,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_2",
+      "y": 270
+    },
+    "facing=west,group=2,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_3",
+      "y": 270
+    },
+    "facing=west,group=2,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_4",
+      "y": 270
+    },
+    "facing=west,group=2,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_5",
+      "y": 270
+    },
+    "facing=west,group=2,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_2_6",
+      "y": 270
+    },
+    "facing=west,group=3,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_1",
+      "y": 270
+    },
+    "facing=west,group=3,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_2",
+      "y": 270
+    },
+    "facing=west,group=3,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_3",
+      "y": 270
+    },
+    "facing=west,group=3,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_4",
+      "y": 270
+    },
+    "facing=west,group=3,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_5",
+      "y": 270
+    },
+    "facing=west,group=3,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_3_6",
+      "y": 270
+    },
+    "facing=west,group=4,type=1": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_1",
+      "y": 270
+    },
+    "facing=west,group=4,type=2": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_2",
+      "y": 270
+    },
+    "facing=west,group=4,type=3": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_3",
+      "y": 270
+    },
+    "facing=west,group=4,type=4": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_4",
+      "y": 270
+    },
+    "facing=west,group=4,type=5": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_5",
+      "y": 270
+    },
+    "facing=west,group=4,type=6": {
+      "model": "justbuildmystronghold:block/handrail/birch/handrail_birch_4_6",
+      "y": 270
+    }
+  }
+}
